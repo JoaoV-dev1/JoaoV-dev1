@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoV-dev1
-- 👀 I’m interested in language python, software and database
+- 👀 I’m interested in technology and new information, I love how the world is modernizing and updating
 - 🌱 I’m currently learning python, dbdesigner, dbdesigner and MicSim
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jvsp2006@gmail.com
